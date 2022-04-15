@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563055806935",
+    "project_id": "social-media-app-47838",
+    "storage_bucket": "social-media-app-47838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563055806935:android:449a29e35d8f0e8816e392",
+        "android_client_info": {
+          "package_name": "com.zahirahmad.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563055806935-iqpqup6hs2p01ouvp6l346tvcedqnkm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAun64RIbKVxjXjTT8aKgC0yoMhO5DyK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563055806935-iqpqup6hs2p01ouvp6l346tvcedqnkm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
